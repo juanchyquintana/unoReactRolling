@@ -1,8 +1,12 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Crear una aplicación web con un componente que muestre en pantalla el mensaje “Hello World”
 
-Currently, two official plugins are available:
+Plugins utilizados:
+- Bootstrap 5.3.2
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Contacto
+- [Gmail] (quintanajuanchy25@gmail.com)
+- [Linkedln](https://www.linkedin.com/in/juan-diego-quintana-b5a186211/)
+- [GitHub] (https://github.com/juanchyquintana)
+- [Instagram] (https://www.instagram.com/juanchyquintana/)
